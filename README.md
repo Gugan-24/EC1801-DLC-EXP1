@@ -20,7 +20,8 @@ exp1_boolean_min_tb.v	Verilog testbench
 exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
-<img width="1852" height="1012" alt="image" src="https://github.com/user-attachments/assets/4ef6b7a1-ee74-47ce-9a2c-883b6fab5dc3" />
+<img width="1602" height="841" alt="fun" src="https://github.com/user-attachments/assets/da549fed-cd44-47a0-be3a-97630b750d89" />
+
 
 
 
