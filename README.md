@@ -20,11 +20,13 @@ exp1_boolean_min_tb.v	Verilog testbench
 exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 
 ## Verilog Program
+<img width="1852" height="1012" alt="image" src="https://github.com/user-attachments/assets/4ef6b7a1-ee74-47ce-9a2c-883b6fab5dc3" />
 
 
 
 ## TestBench Program
 
+<img width="1586" height="846" alt="tb" src="https://github.com/user-attachments/assets/609a5f36-1054-499b-8c71-67a0aeef651f" />
 
 
 
@@ -85,6 +87,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
+<img width="1835" height="957" alt="output" src="https://github.com/user-attachments/assets/7e7d3d9c-c415-4798-9534-e0995b500bb5" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
